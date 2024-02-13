@@ -8,6 +8,9 @@ Currently I am responsible for the “[Travellings](https://github.com/travellin
 
 You can contact me on Twitter (@ luochancyOWO), E-mail or GitHub!
 
+Number of home page visitors：
+![](https://komarev.com/ghpvc/?username=Luochancy)
+
 ---------------
 
 我叫洛寒兮，来自中国，你可以叫我洛或者 Luochancy 。我喜欢二次元文化和计算机科技。
