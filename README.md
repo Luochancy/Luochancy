@@ -6,7 +6,7 @@ I'm a newbie programmer now and I'll try to get better and better.  At the same 
 
 Currently I am responsible for the “[Travellings](https://github.com/travellings-link/travellings/)” project, one of the operators of the non-commercial music game Simple and the founder of LuocyTeam.
 
-You can contact me on Twitter (@ luochancyOWO), E-mail or GitHub!
+You can contact me on Twitter (@luochancyOWO), E-mail(me@luochancy.com) or GitHub!
 
 Number of home page visitors：
 ![](https://komarev.com/ghpvc/?username=Luochancy)
@@ -21,7 +21,7 @@ Number of home page visitors：
 
 目前我正在负责 “[开往](https://github.com/travellings-link/travellings/)” 项目、非商业音游 Simple 的运营之一和 LuocyTeam 的创始人。
 
-你可以在 Twitter(@LuochancyOWO) 、 E-mail 或 GitHub联系到我！
+你可以在 Twitter(@LuochancyOWO) 、 E-mail(me@luochancy.com) 或 GitHub联系到我！
 
 主页访问人数：
 ![](https://komarev.com/ghpvc/?username=Luochancy)
