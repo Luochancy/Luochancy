@@ -1,5 +1,7 @@
 ## Welcome to my home page!
 
+![Profile Views](https://komarev.com/ghpvc/?username=Luochancy)
+
 My name is "Luo Hanxi" and I come from China. You can call me "Luo" or "Luochancy".  I like the two-dimensional culture from Japan and computer technology.
 
 I'm a newbie programmer now and I'll try to get better and better.  At the same time, I am now a server operator and I also have my own server.Please take care of me!
@@ -8,12 +10,14 @@ Currently I am responsible for the “[Travellings](https://github.com/travellin
 
 You can contact me on Twitter (@luochancyOWO), E-mail(me@luochancy.com) or GitHub!
 
-Number of home page visitors：
-![](https://komarev.com/ghpvc/?username=Luochancy)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Luochancy&show_icons=true&theme=highcontrast)
+
 
 ---------------
 
 ## 欢迎来到我的主页！
+
+![Profile Views](https://komarev.com/ghpvc/?username=Luochancy)
 
 我叫洛寒兮，来自中国，你可以叫我洛或者 Luochancy 。我喜欢二次元文化和计算机科技。
 
@@ -23,5 +27,4 @@ Number of home page visitors：
 
 你可以在 Twitter(@LuochancyOWO) 、 E-mail(me@luochancy.com) 或 GitHub联系到我！
 
-主页访问人数：
-![](https://komarev.com/ghpvc/?username=Luochancy)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Luochancy&show_icons=true&theme=highcontrast)
